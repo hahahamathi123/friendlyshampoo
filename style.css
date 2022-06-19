@@ -3,7 +3,7 @@
 }
 
 .bg-image {
-  background-image: url('https://source.unsplash.com/WEQbe2jBg40/600x1200');
+  background-image: url("scandinavian-biolabs-xAM918KJa-4-unsplash.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -14,6 +14,18 @@
 
 .btn-login {
   font-size: 0.9rem;
-  letter-spacing: 0.05rem;
+  letter-spacing: 0.05rem; 
   padding: 0.75rem 1rem;
+  background-color: #9F9E9C;
+  border-color: #9F9E9C;
 }
+
+.btn-login:hover {
+  background-color: black;
+}
+
+a {
+  color: black !important;
+}
+
+
